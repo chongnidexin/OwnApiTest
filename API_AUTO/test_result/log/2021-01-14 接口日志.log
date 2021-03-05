@@ -1,0 +1,100 @@
+2021-01-14 09:52:39,210-my_log.py-DEBUG-接口测试--日志信息: 开始执行分tab品牌详情信息(盲盒)接口 
+2021-01-14 09:52:39,212-my_log.py-INFO-接口测试--日志信息: /api/v2/toybox/brand/644/by_type/ 
+2021-01-14 09:52:39,212-my_log.py-INFO-接口测试--日志信息: 请求数据是：<function data at 0x000001DEB1B8AD08> 
+2021-01-14 09:52:39,213-my_log.py-ERROR-接口测试--日志信息: 请求方法出错了not enough values to unpack (expected 2, got 1) 
+2021-01-14 09:52:43,169-my_log.py-DEBUG-接口测试--日志信息: 开始执行分tab品牌详情信息(盲盒)接口 
+2021-01-14 09:52:43,169-my_log.py-INFO-接口测试--日志信息: /api/v2/toybox/brand/644/by_type/ 
+2021-01-14 09:52:43,170-my_log.py-INFO-接口测试--日志信息: 请求数据是：<function data at 0x000001E0EC790D08> 
+2021-01-14 09:52:43,171-my_log.py-ERROR-接口测试--日志信息: 请求方法出错了not enough values to unpack (expected 2, got 1) 
+2021-01-14 10:01:07,149-my_log.py-DEBUG-接口测试--日志信息: 开始执行分tab品牌详情信息(盲盒)接口 
+2021-01-14 10:01:07,149-my_log.py-INFO-接口测试--日志信息: /api/v2/toybox/brand/644/by_type/ 
+2021-01-14 10:01:07,149-my_log.py-INFO-接口测试--日志信息: 请求数据是：<function data at 0x0000014CBFCF9D08> 
+2021-01-14 10:01:07,149-my_log.py-ERROR-接口测试--日志信息: 请求方法出错了not enough values to unpack (expected 2, got 1) 
+2021-01-14 10:31:06,197-my_log.py-DEBUG-接口测试--日志信息: 开始执行分tab品牌详情信息(盲盒)接口 
+2021-01-14 10:31:06,198-my_log.py-INFO-接口测试--日志信息: /api/v2/toybox/brand/644/by_type/ 
+2021-01-14 10:31:06,198-my_log.py-INFO-接口测试--日志信息: 请求数据是：<function data at 0x00000214FC07DD08> 
+2021-01-14 10:31:06,199-my_log.py-ERROR-接口测试--日志信息: 请求方法出错了not enough values to unpack (expected 2, got 1) 
+2021-01-14 11:01:03,999-my_log.py-DEBUG-接口测试--日志信息: 开始执行分tab品牌详情信息(盲盒)接口 
+2021-01-14 11:01:03,999-my_log.py-INFO-接口测试--日志信息: /api/v2/toybox/brand/644/by_type/ 
+2021-01-14 11:01:04,000-my_log.py-INFO-接口测试--日志信息: 请求数据是：<function data at 0x000001A21CF29D08> 
+2021-01-14 11:01:04,001-my_log.py-ERROR-接口测试--日志信息: 请求方法出错了not enough values to unpack (expected 2, got 1) 
+2021-01-14 11:31:03,996-my_log.py-DEBUG-接口测试--日志信息: 开始执行分tab品牌详情信息(盲盒)接口 
+2021-01-14 11:31:03,997-my_log.py-INFO-接口测试--日志信息: /api/v2/toybox/brand/644/by_type/ 
+2021-01-14 11:31:03,998-my_log.py-INFO-接口测试--日志信息: 请求数据是：<function data at 0x000001BCDA4B9D08> 
+2021-01-14 11:31:04,000-my_log.py-ERROR-接口测试--日志信息: 请求方法出错了not enough values to unpack (expected 2, got 1) 
+2021-01-14 12:01:03,569-my_log.py-DEBUG-接口测试--日志信息: 开始执行分tab品牌详情信息(盲盒)接口 
+2021-01-14 12:01:03,569-my_log.py-INFO-接口测试--日志信息: /api/v2/toybox/brand/644/by_type/ 
+2021-01-14 12:01:03,570-my_log.py-INFO-接口测试--日志信息: 请求数据是：<function data at 0x000001813D49AD08> 
+2021-01-14 12:01:03,571-my_log.py-ERROR-接口测试--日志信息: 请求方法出错了not enough values to unpack (expected 2, got 1) 
+2021-01-14 12:31:03,604-my_log.py-DEBUG-接口测试--日志信息: 开始执行分tab品牌详情信息(盲盒)接口 
+2021-01-14 12:31:03,605-my_log.py-INFO-接口测试--日志信息: /api/v2/toybox/brand/644/by_type/ 
+2021-01-14 12:31:03,605-my_log.py-INFO-接口测试--日志信息: 请求数据是：<function data at 0x0000026EA6C3DD08> 
+2021-01-14 12:31:03,606-my_log.py-ERROR-接口测试--日志信息: 请求方法出错了not enough values to unpack (expected 2, got 1) 
+2021-01-14 13:01:03,603-my_log.py-DEBUG-接口测试--日志信息: 开始执行分tab品牌详情信息(盲盒)接口 
+2021-01-14 13:01:03,604-my_log.py-INFO-接口测试--日志信息: /api/v2/toybox/brand/644/by_type/ 
+2021-01-14 13:01:03,604-my_log.py-INFO-接口测试--日志信息: 请求数据是：<function data at 0x000001F96427AD08> 
+2021-01-14 13:01:03,605-my_log.py-ERROR-接口测试--日志信息: 请求方法出错了not enough values to unpack (expected 2, got 1) 
+2021-01-14 13:31:03,615-my_log.py-DEBUG-接口测试--日志信息: 开始执行分tab品牌详情信息(盲盒)接口 
+2021-01-14 13:31:03,617-my_log.py-INFO-接口测试--日志信息: /api/v2/toybox/brand/644/by_type/ 
+2021-01-14 13:31:03,617-my_log.py-INFO-接口测试--日志信息: 请求数据是：<function data at 0x0000021B2983AD08> 
+2021-01-14 13:31:03,619-my_log.py-ERROR-接口测试--日志信息: 请求方法出错了not enough values to unpack (expected 2, got 1) 
+2021-01-14 14:01:03,708-my_log.py-DEBUG-接口测试--日志信息: 开始执行分tab品牌详情信息(盲盒)接口 
+2021-01-14 14:01:03,708-my_log.py-INFO-接口测试--日志信息: /api/v2/toybox/brand/644/by_type/ 
+2021-01-14 14:01:03,709-my_log.py-INFO-接口测试--日志信息: 请求数据是：<function data at 0x000001C67ED99D08> 
+2021-01-14 14:01:03,710-my_log.py-ERROR-接口测试--日志信息: 请求方法出错了not enough values to unpack (expected 2, got 1) 
+2021-01-14 14:31:03,602-my_log.py-DEBUG-接口测试--日志信息: 开始执行分tab品牌详情信息(盲盒)接口 
+2021-01-14 14:31:03,603-my_log.py-INFO-接口测试--日志信息: /api/v2/toybox/brand/644/by_type/ 
+2021-01-14 14:31:03,604-my_log.py-INFO-接口测试--日志信息: 请求数据是：<function data at 0x0000020AF500AD08> 
+2021-01-14 14:31:03,605-my_log.py-ERROR-接口测试--日志信息: 请求方法出错了not enough values to unpack (expected 2, got 1) 
+2021-01-14 15:01:03,653-my_log.py-DEBUG-接口测试--日志信息: 开始执行分tab品牌详情信息(盲盒)接口 
+2021-01-14 15:01:03,654-my_log.py-INFO-接口测试--日志信息: /api/v2/toybox/brand/644/by_type/ 
+2021-01-14 15:01:03,654-my_log.py-INFO-接口测试--日志信息: 请求数据是：<function data at 0x0000020BA8569D08> 
+2021-01-14 15:01:03,655-my_log.py-ERROR-接口测试--日志信息: 请求方法出错了not enough values to unpack (expected 2, got 1) 
+2021-01-14 15:31:04,132-my_log.py-DEBUG-接口测试--日志信息: 开始执行分tab品牌详情信息(盲盒)接口 
+2021-01-14 15:31:04,134-my_log.py-INFO-接口测试--日志信息: /api/v2/toybox/brand/644/by_type/ 
+2021-01-14 15:31:04,135-my_log.py-INFO-接口测试--日志信息: 请求数据是：<function data at 0x0000017D29ABAD08> 
+2021-01-14 15:31:04,138-my_log.py-ERROR-接口测试--日志信息: 请求方法出错了not enough values to unpack (expected 2, got 1) 
+2021-01-14 16:01:03,566-my_log.py-DEBUG-接口测试--日志信息: 开始执行分tab品牌详情信息(盲盒)接口 
+2021-01-14 16:01:03,566-my_log.py-INFO-接口测试--日志信息: /api/v2/toybox/brand/644/by_type/ 
+2021-01-14 16:01:03,567-my_log.py-INFO-接口测试--日志信息: 请求数据是：<function data at 0x000002402C1AAD08> 
+2021-01-14 16:01:03,568-my_log.py-ERROR-接口测试--日志信息: 请求方法出错了not enough values to unpack (expected 2, got 1) 
+2021-01-14 16:31:04,103-my_log.py-DEBUG-接口测试--日志信息: 开始执行分tab品牌详情信息(盲盒)接口 
+2021-01-14 16:31:04,104-my_log.py-INFO-接口测试--日志信息: /api/v2/toybox/brand/644/by_type/ 
+2021-01-14 16:31:04,105-my_log.py-INFO-接口测试--日志信息: 请求数据是：<function data at 0x0000022C5C6D9D08> 
+2021-01-14 16:31:04,107-my_log.py-ERROR-接口测试--日志信息: 请求方法出错了not enough values to unpack (expected 2, got 1) 
+2021-01-14 17:01:04,064-my_log.py-DEBUG-接口测试--日志信息: 开始执行分tab品牌详情信息(盲盒)接口 
+2021-01-14 17:01:04,065-my_log.py-INFO-接口测试--日志信息: /api/v2/toybox/brand/644/by_type/ 
+2021-01-14 17:01:04,066-my_log.py-INFO-接口测试--日志信息: 请求数据是：<function data at 0x000001FC7A7E9D08> 
+2021-01-14 17:01:04,068-my_log.py-ERROR-接口测试--日志信息: 请求方法出错了not enough values to unpack (expected 2, got 1) 
+2021-01-14 17:31:03,665-my_log.py-DEBUG-接口测试--日志信息: 开始执行分tab品牌详情信息(盲盒)接口 
+2021-01-14 17:31:03,666-my_log.py-INFO-接口测试--日志信息: /api/v2/toybox/brand/644/by_type/ 
+2021-01-14 17:31:03,666-my_log.py-INFO-接口测试--日志信息: 请求数据是：<function data at 0x000001440D3E9D08> 
+2021-01-14 17:31:03,667-my_log.py-ERROR-接口测试--日志信息: 请求方法出错了not enough values to unpack (expected 2, got 1) 
+2021-01-14 18:01:03,553-my_log.py-DEBUG-接口测试--日志信息: 开始执行分tab品牌详情信息(盲盒)接口 
+2021-01-14 18:01:03,554-my_log.py-INFO-接口测试--日志信息: /api/v2/toybox/brand/644/by_type/ 
+2021-01-14 18:01:03,554-my_log.py-INFO-接口测试--日志信息: 请求数据是：<function data at 0x0000024974AE9D08> 
+2021-01-14 18:01:03,556-my_log.py-ERROR-接口测试--日志信息: 请求方法出错了not enough values to unpack (expected 2, got 1) 
+2021-01-14 18:31:03,554-my_log.py-DEBUG-接口测试--日志信息: 开始执行分tab品牌详情信息(盲盒)接口 
+2021-01-14 18:31:03,555-my_log.py-INFO-接口测试--日志信息: /api/v2/toybox/brand/644/by_type/ 
+2021-01-14 18:31:03,556-my_log.py-INFO-接口测试--日志信息: 请求数据是：<function data at 0x000001D8E4209D08> 
+2021-01-14 18:31:03,558-my_log.py-ERROR-接口测试--日志信息: 请求方法出错了not enough values to unpack (expected 2, got 1) 
+2021-01-14 19:01:03,780-my_log.py-DEBUG-接口测试--日志信息: 开始执行分tab品牌详情信息(盲盒)接口 
+2021-01-14 19:01:03,781-my_log.py-INFO-接口测试--日志信息: /api/v2/toybox/brand/644/by_type/ 
+2021-01-14 19:01:03,782-my_log.py-INFO-接口测试--日志信息: 请求数据是：<function data at 0x000002081C539D08> 
+2021-01-14 19:01:03,783-my_log.py-ERROR-接口测试--日志信息: 请求方法出错了not enough values to unpack (expected 2, got 1) 
+2021-01-14 19:31:03,813-my_log.py-DEBUG-接口测试--日志信息: 开始执行分tab品牌详情信息(盲盒)接口 
+2021-01-14 19:31:03,814-my_log.py-INFO-接口测试--日志信息: /api/v2/toybox/brand/644/by_type/ 
+2021-01-14 19:31:03,814-my_log.py-INFO-接口测试--日志信息: 请求数据是：<function data at 0x000002B0C054DD08> 
+2021-01-14 19:31:03,815-my_log.py-ERROR-接口测试--日志信息: 请求方法出错了not enough values to unpack (expected 2, got 1) 
+2021-01-14 20:01:03,859-my_log.py-DEBUG-接口测试--日志信息: 开始执行分tab品牌详情信息(盲盒)接口 
+2021-01-14 20:01:03,860-my_log.py-INFO-接口测试--日志信息: /api/v2/toybox/brand/644/by_type/ 
+2021-01-14 20:01:03,860-my_log.py-INFO-接口测试--日志信息: 请求数据是：<function data at 0x000001A941D5AD08> 
+2021-01-14 20:01:03,861-my_log.py-ERROR-接口测试--日志信息: 请求方法出错了not enough values to unpack (expected 2, got 1) 
+2021-01-14 20:31:03,660-my_log.py-DEBUG-接口测试--日志信息: 开始执行分tab品牌详情信息(盲盒)接口 
+2021-01-14 20:31:03,661-my_log.py-INFO-接口测试--日志信息: /api/v2/toybox/brand/644/by_type/ 
+2021-01-14 20:31:03,661-my_log.py-INFO-接口测试--日志信息: 请求数据是：<function data at 0x000001BF8A001D08> 
+2021-01-14 20:31:03,662-my_log.py-ERROR-接口测试--日志信息: 请求方法出错了not enough values to unpack (expected 2, got 1) 
+2021-01-14 21:01:03,560-my_log.py-DEBUG-接口测试--日志信息: 开始执行分tab品牌详情信息(盲盒)接口 
+2021-01-14 21:01:03,561-my_log.py-INFO-接口测试--日志信息: /api/v2/toybox/brand/644/by_type/ 
+2021-01-14 21:01:03,562-my_log.py-INFO-接口测试--日志信息: 请求数据是：<function data at 0x0000021D7D64DD08> 
+2021-01-14 21:01:03,564-my_log.py-ERROR-接口测试--日志信息: 请求方法出错了not enough values to unpack (expected 2, got 1) 
